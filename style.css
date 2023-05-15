@@ -1,0 +1,72 @@
+html {
+  background: #252526;
+}
+.container {
+  padding: 0 !important;
+}
+
+body {
+  margin: 0 auto;
+  max-width: 1200px;
+  font-family: 'Share Tech Mono', monospace !important;
+  background: #252526;
+}
+
+.intro {
+  background: #252526 url("./img/bg1.jpg") center/contain no-repeat;
+}
+
+.fim {
+  background: #252526 url("./img/bg2.jpg") center/contain no-repeat;
+}
+
+.carousel-inner {
+  height: 100vh;
+}
+
+.carousel-caption {
+  background-color: #252526;
+  padding: 20px;
+  border-radius: 4px;
+}
+
+.carousel-caption ul {
+  list-style: none;
+}
+
+.slide-1 {
+  background: #252526 url(https://res.cloudinary.com/highereducation/images/f_auto,fl_lossy,q_auto/v1662583494/BestColleges.com/close-up-of-person-holding-computer-chip/close-up-of-person-holding-computer-chip.jpg) center/contain no-repeat;
+}
+
+.slide-2 {
+  background: #252526 url(https://cdn.arstechnica.net/wp-content/uploads/2022/08/IMG_0117.jpeg) center/contain no-repeat;
+}
+
+.slide-3 {
+  background: #252526 url(https://blog.elgscreen.com/wp-content/uploads/2021/04/o-que-e-pasta-termica-capa.jpg) center/contain no-repeat;
+}
+
+.slide-4 {
+  background: #252526 url(https://bhataramedia.com/wp-content/uploads/2018/04/64-Bit-Processor-1280x720.jpg) center/contain no-repeat;
+}
+
+.slide-5 {
+  background: #252526 url(https://www.pcworld.com/wp-content/uploads/2023/04/rkl-cpu-back-100880969-orig.jpg?quality=50&strip=all&w=1024) center/contain no-repeat;
+}
+
+.slide-6 {
+  background: #252526 url(https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/12/cpu-cache.jpg) center/contain no-repeat;
+}
+
+.slide-7 {
+  background: #252526 url(https://www.pearsonitcertification.com/content/images/chap3_9780789756459/elementLinks/03fig17_alt.jpg) center/contain no-repeat;
+}
+
+.slide-8 {
+  background: #252526 url(https://cdn.arstechnica.net/wp-content/uploads/2022/08/IMG_0117.jpeg) center/contain no-repeat;
+}
+
+.slide-9 {
+  background: #252526 url(https://hortamariadovale.pt/pics-upload/162285-Intel-xeon-e5-2620v3-e5-2620v3-e5-2620-v3-2-4-ghz-six-1.jpg) center/contain no-repeat;
+}
+
