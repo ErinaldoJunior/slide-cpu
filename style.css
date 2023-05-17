@@ -13,7 +13,44 @@ body {
 }
 
 .intro {
-  background: #252526 url("./img/bg1.jpg") center/contain no-repeat;
+  background-image: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);
+  position: relative;
+}
+
+.conteudo {
+  display: grid !important;
+  justify-content: start;
+  align-content: center;
+  margin-top: 160px;
+  margin-left: 200px;
+}
+
+.intro h1 {
+  font-size: 20rem;
+  font-weight: bold;
+  color: #252526;
+  justify-self: start;
+  align-self: center;
+}
+
+.intro h1::before {
+  content: "";
+  width: 300px;
+  height: 800px;
+  background: url(./img/cpu.png) center/contain repeat;
+  display: block;
+  position: absolute;
+  top: 0px;
+  right: -10px;
+}
+
+.intro h2 {
+  font-size: 1rem;
+  font-weight: bold;
+  color: #252526;
+  justify-self: end;
+  margin-top: -60px;
+  margin-right: 20px;
 }
 
 .fim {
